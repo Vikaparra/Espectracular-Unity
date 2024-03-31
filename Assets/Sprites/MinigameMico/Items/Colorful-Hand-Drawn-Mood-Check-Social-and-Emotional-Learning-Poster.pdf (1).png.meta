@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: f0872ce5be1f8704d9540e212998e2f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1504
+        width: 429
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d16a432af6d68429f35473594175fc
+      internalID: 44296269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1503
+        width: 434
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa0e11a0e19fe4a80054069e6078d3
+      internalID: 333138054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1506
+        width: 470
+        height: 439
+      alignment: 9
+      pivot: {x: 0.4956691, y: 0.49072626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bfdcc8b11096b4e9bc217a65b9e9cc
+      internalID: -710688907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1070
+        width: 439
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43424efa75877340a22218171a2b969
+      internalID: -1978731877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1067
+        width: 431
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053822b8fd9b8c84f8a875c8c3181c77
+      internalID: 862527264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 609
+        width: 480
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 30, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ed805aad1d1d4a884fd995c40ab05
+      internalID: -1588205879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_55
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 478
+        width: 537
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ad7048ea222742921312649b00990
+      internalID: 1611743118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_84
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 36
+        width: 429
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899b3cd77074c14caddf77f1651e08d
+      internalID: 955470183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_93
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 432
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad6a34e16ba0c4fbbba0fa12e88a4f
+      internalID: -1598964360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf
+        (1)_95
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 12
+        width: 452
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d626a45b9164f646a151898a049b071
+      internalID: 691916327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_0: 1025367584
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_1: 303871773
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_10: 215924389
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_100: 1132850694
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_101: -1421290408
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_102: -982748748
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_103: 44296269
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_104: 333138054
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_105: 747665137
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_106: -710688907
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_107: 1837713633
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_108: 1576753376
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_109: -1250617929
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_11: 1720894750
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_110: -171349482
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_111: 859590427
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_112: 1166736619
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_113: 450968783
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_114: -984894657
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_115: -516183842
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_116: -1760244533
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_117: -1978731877
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_118: -1323106181
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_119: 844283252
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_12: 862527264
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_120: 1058210324
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_121: 203825382
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_122: -382136526
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_13: 513322298
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_14: 1782653476
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_15: 970898454
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_16: -1688310120
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_17: -24189580
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_18: -677728360
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_19: 1966996647
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_2: 497346687
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_20: -1821399827
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_21: 1128408992
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_22: -1423366960
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_23: 843987803
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_24: 86077579
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_25: 2132970295
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_26: -311406169
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_27: -356208847
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_28: -1588205879
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_29: -788010168
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_3: -1578587308
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_30: -1728543386
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_31: -1519254421
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_32: -1540989313
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_33: 1610728118
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_34: -1088097728
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_35: 1851856271
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_36: 463398664
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_37: -863726094
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_38: 1611743118
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_39: 1039178666
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_4: -1385209630
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_40: 733081642
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_41: -891091355
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_42: -1213680001
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_43: 1523520638
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_44: 1590426092
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_45: 1139887519
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_46: -886151662
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_47: 328230079
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_48: -1587252782
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_49: 326523825
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_5: 1533078323
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_50: -803156834
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_51: 1902883869
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_52: 1404074554
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_53: 498481569
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_54: -159741467
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_55: 208443338
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_56: 318522427
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_57: -1853710859
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_58: -865374363
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_59: -368207147
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_6: -1735983582
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_60: 2024084588
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_61: -1533962031
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_62: 174605953
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_63: 745689254
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_64: 955470183
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_65: 1137295373
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_66: -806732816
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_67: -2075600665
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_68: -1804412856
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_69: 1884869100
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_7: 434295505
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_70: 482141348
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_71: -284328376
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_72: -1598964360
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_73: -1261301054
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_74: 691916327
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_75: -945537438
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_76: 568911733
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_77: 1239431360
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_78: 1233741092
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_79: -51688134
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_8: -1326763319
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_80: -1344710084
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_81: -510431882
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_82: -841309460
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_83: 1139759859
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_84: -1005266404
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_85: 1543242836
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_86: -862732501
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_87: 989281421
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_88: 1379098254
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_89: -2047822810
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_9: 613660476
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_90: 451040724
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_91: 1033454456
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_92: 620056435
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_93: 661121344
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_94: 1248689160
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_95: 1501897288
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_96: 429941806
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_97: -897426253
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_98: 603254445
+      Colorful-Hand-Drawn-Mood-Check-Social-and-Emotional-Learning-Poster.pdf (1)_99: -1768817381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
