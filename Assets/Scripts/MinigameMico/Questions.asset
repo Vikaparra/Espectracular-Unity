@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd22d597ccee8a743aecfaad8515a2b2, type: 3}
+  m_Name: Questions
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 862527264, guid: f0872ce5be1f8704d9540e212998e2f6, type: 3}
+    correctReply: Feliz
+  - questionImage: {fileID: 21300000, guid: cf1cfac2d6dc1e247b874ad653a69a9b, type: 3}
+    correctReply: Triste
+  - questionImage: {fileID: 691916327, guid: f0872ce5be1f8704d9540e212998e2f6, type: 3}
+    correctReply: Assustada
+  - questionImage: {fileID: -1588205879, guid: f0872ce5be1f8704d9540e212998e2f6, type: 3}
+    correctReply: Cansada
+  - questionImage: {fileID: 1611743118, guid: f0872ce5be1f8704d9540e212998e2f6, type: 3}
+    correctReply: Surpresa
+  - questionImage: {fileID: -710688907, guid: f0872ce5be1f8704d9540e212998e2f6, type: 3}
+    correctReply: Cansada
+  - questionImage: {fileID: 333138054, guid: f0872ce5be1f8704d9540e212998e2f6, type: 3}
+    correctReply: Brava
+  - questionImage: {fileID: 955470183, guid: f0872ce5be1f8704d9540e212998e2f6, type: 3}
+    correctReply: Feliz
