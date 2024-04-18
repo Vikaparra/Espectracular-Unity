@@ -98,6 +98,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 254e6483d37e96d43acb4a391d899996, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Renderer: {fileID: 6130441434668748923}
+  SpriteTransform: {fileID: 2068938815246967077}
   _source: {fileID: 8228240229623416145}
   _successClip: {fileID: 8300000, guid: 87f09cd769a854b44a8ade0d2cdbbfbb, type: 3}
 --- !u!82 &8228240229623416145
