@@ -42,7 +42,7 @@ public class PuzzlePiece : MonoBehaviour
 
     private void OnMouseUp()
     {
-        if (Vector2.Distance(transform.position, _correctItemSlot.transform.position) < 3)
+        if ((Vector2.Distance(transform.position, _correctItemSlot.transform.position) < 3) && (_slot.Renderer.sprite == _correctItemSlot.Renderer.sprite))
         {
             transform.position = _correctItemSlot.transform.position;
             _correctItemSlot.Success();
@@ -59,5 +59,9 @@ public class PuzzlePiece : MonoBehaviour
     Vector2 GetMousePosition()
     {
         return Camera.main.ScreenToWorldPoint(Input.mousePosition);
+    }
+
+    public void onReset(){
+        Destroy(gameObject);
     }
 }
