@@ -1,10 +1,12 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class PuzzlePiece : MonoBehaviour
 {
     [SerializeField] private SpriteRenderer _renderer;
     [SerializeField] private AudioSource _source;
     [SerializeField] private AudioClip _pickUpClip, _dropClip;
+    public UnityEvent onCorrectAnswer;
     private Vector2 _offset, _originalPosition;
     private bool _dragging, _placed;
     private PuzzleSlot _slot;
@@ -21,6 +23,7 @@ public class PuzzlePiece : MonoBehaviour
     void Awake()
     {
         _originalPosition = transform.position;
+        
     }
 
     void Update()
@@ -47,6 +50,7 @@ public class PuzzlePiece : MonoBehaviour
             transform.position = _correctItemSlot.transform.position;
             _correctItemSlot.Success();
             _placed = true;
+            onCorrectAnswer.Invoke();
         }
         else
         {
