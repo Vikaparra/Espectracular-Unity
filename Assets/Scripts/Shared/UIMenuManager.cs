@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class UIMenuManager : MonoBehaviour
 {
@@ -28,8 +29,7 @@ public class UIMenuManager : MonoBehaviour
     }
     public void BackToMainScene(string mainScene)
     {
-        readScene = new ReadScene();
         this.menuPanel.SetActive(false);
-        this.readScene.LoadScene(mainScene);
+        SceneManager.LoadScene(mainScene);
     }
 }
