@@ -17,7 +17,7 @@ public class WallsController : MonoBehaviour
     {
         if (isActive){
             float movement = this.speed * Time.fixedDeltaTime;
-            this.transform.position = this.transform.position + Vector3.down * movement;
+            this.transform.position = this.transform.position + Vector3.up * movement;
         }
     }
 
@@ -25,8 +25,10 @@ public class WallsController : MonoBehaviour
         this.isActive = isActive; 
     }
 
-    private void OnCollisionEnter2D() {
-        this.ToggleActive(false);
+    private void OnCollisionEnter2D(Collision2D collision) {
+        if(collision.collider.tag != "trash"){
+            this.ToggleActive(false);
+        }
     }
 
     private void OnCollisionExit2D() {
