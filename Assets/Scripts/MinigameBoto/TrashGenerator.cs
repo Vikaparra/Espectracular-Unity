@@ -6,7 +6,7 @@ public class TrashGenerator : MonoBehaviour
     [SerializeField]
     private GameObject trashPrefab;
     [SerializeField]
-    private float radius;
+    private Rect area;
 
     private void Start()
     {
@@ -21,16 +21,18 @@ public class TrashGenerator : MonoBehaviour
 
     private void DefinirPosicaoInimigo(GameObject trashObject)
     {
-        // var randomPosition = new Vector3(
-        //                 Random.Range(-this.radius, this.radius),
-        //                 Random.Range(-this.radius, this.radius),
-        //                 0);
-                              var randomPosition = new Vector3(
-                       this.radius,
-                       this.radius
-                   );
+        var randomPosition = new Vector3(
+                        Random.Range(this.area.xMin,this.area.xMax),
+                        Random.Range(this.area.yMin,this.area.yMax),
+                        0);
 
         var trashPosition = this.transform.position + randomPosition;
         trashObject.transform.position = trashPosition;
+    }
+
+    private void OnDrawGizmos() {
+        Gizmos.color = new Color(100,0,100);
+        var position = this.area.position + (Vector2)this.transform.position + this.area.size/2;
+        Gizmos.DrawWireCube(position, this.area.size);
     }
 }
