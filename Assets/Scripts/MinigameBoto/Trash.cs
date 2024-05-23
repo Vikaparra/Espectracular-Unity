@@ -14,5 +14,10 @@ public class Trash : MonoBehaviour
         GameObject.Destroy(this.gameObject);
     }
 
+    public void SelfDestroy()
+    {
+        GameObject.Destroy(this.gameObject);
+    }
+
 }
 

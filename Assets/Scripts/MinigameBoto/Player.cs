@@ -7,10 +7,12 @@ public class Player : MonoBehaviour
 {
     [SerializeField] public float moveSpeed = 1f;
     private float movementX;
+    private Vector3 initialPosition;
     Rigidbody2D rb;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        this.initialPosition = this.transform.position;
     }
 
     void Update()
@@ -23,5 +25,9 @@ public class Player : MonoBehaviour
     void FixedUpdate()
     {
         rb.velocity = new Vector2(movementX * moveSpeed, 0f);
+    }
+
+    public void ResetPlayer(){
+        this.transform.position = this.initialPosition;
     }
 }

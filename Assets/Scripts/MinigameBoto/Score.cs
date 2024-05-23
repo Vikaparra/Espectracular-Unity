@@ -10,8 +10,22 @@ public class Score : MonoBehaviour
 
     public void AddPoint(int points = 1)
     {
-        this.TotalScore=+points;
+        this.TotalScore += points;
         this.onScore.Invoke(this.TotalScore);
+    }
+
+    public void SaveScore()
+    {
+        int record = PlayerPrefs.GetInt("botoScore");
+        if (this.TotalScore > record)
+        {
+            PlayerPrefs.SetInt("botoScore", this.TotalScore);
+        }
+
+    }
+
+    public void ResetScore(){
+        this.TotalScore = 0;
     }
 }
 
