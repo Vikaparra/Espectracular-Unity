@@ -9,7 +9,10 @@ public class UIMenuManager : MonoBehaviour
     [SerializeField] private GameObject menuPanel;
     [SerializeField] private GameObject gamePanel;
     [SerializeField] private UnityEvent resetMinigame;
-    private ReadScene readScene;
+    
+    //TODO: refactor this class so it is only responsible for
+    // opening and closing menu manager. It doesn't need to deal
+    // with reset game, or loading scenes (at least I think not)
 
     public void OpenMenu()
     {

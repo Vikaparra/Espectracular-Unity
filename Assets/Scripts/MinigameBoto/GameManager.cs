@@ -30,8 +30,7 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale = 0;
         this.score.SaveScore();
-        Right.gameObject.SetActive(false);
-        GameFinished.gameObject.SetActive(false);
+        GameFinished.gameObject.SetActive(true);
 
     }
 
