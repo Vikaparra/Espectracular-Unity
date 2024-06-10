@@ -19,14 +19,14 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        //  movementX = Input.acceleration.x * moveSpeed;       
-        //  transform.position = new Vector2 (Mathf.Clamp(transform.position.x, -7.5f, 7.5f), transform.position.y); 
-        movementX = Input.GetAxis("Horizontal");
+         movementX = Input.acceleration.x * moveSpeed;       
+         transform.position = new Vector2 (transform.position.x, transform.position.y); 
+        // movementX = Input.GetAxis("Horizontal");
     }
 
     void FixedUpdate()
     {
-        rb.velocity = new Vector2(movementX * moveSpeed, 0f);
+        rb.velocity = new Vector2(movementX, 0f);
     }
 
     public void ResetPlayer(){
