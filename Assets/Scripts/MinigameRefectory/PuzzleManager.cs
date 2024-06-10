@@ -58,7 +58,6 @@ public class PuzzleManager : MonoBehaviour
     {
         yield return new WaitForSeconds(2);
         _currentQuestion++;
-        Debug.Log("Coroutine");
 
         if (_currentQuestion < 10)
         {
@@ -73,7 +72,6 @@ public class PuzzleManager : MonoBehaviour
 
     public void OnCorrectAnswer()
     {
-        Debug.Log("OnCorrectAnswer");
         Right.gameObject.SetActive(true);
         StartCoroutine(Next());
     }
