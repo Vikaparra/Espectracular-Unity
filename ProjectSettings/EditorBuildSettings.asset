@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Forest/Forest.unity
+    guid: 7b5f32a94c401a245b1c5cc4377870eb
   - enabled: 1
     path: Assets/Scenes/River/River.unity
     guid: b52bfc22acc679142aba8e0c3e22cc0d
@@ -15,8 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/River/MinigameBoto.unity
     guid: 0fbd9c6bae1eba14b80a3906e38cc2a6
   - enabled: 1
-    path: Assets/Scenes/Forest/Forest.unity
-    guid: 7b5f32a94c401a245b1c5cc4377870eb
+    path: Assets/Scenes/River/MinigameRefeitorio.unity
+    guid: cac68493310fbf84ea1adae72513273d
+  - enabled: 1
+    path: Assets/Scenes/Forest/MinigameMico.unity
+    guid: 37d42cdee0f27d947890b17915fd7ff5
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 60069e48a4b49044b8c35b859ca59421, type: 2}
     com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: faecf2281f9bd0b4abacd4e526358b8c, type: 2}
