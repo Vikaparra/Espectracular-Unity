@@ -850,7 +850,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _slotPrefabs:
   - {fileID: 6075503542731327465, guid: 99d76a64b5f06d3428b02b3f0f0794ef, type: 3}
-  - {fileID: 528695569914697235, guid: 1e859d913ab8f3b4cb4a56675a58f03b, type: 3}
+  - {fileID: 6215877724286564423, guid: a5714fa05956dde4092399cf03e56c77, type: 3}
   - {fileID: 377428485875150862, guid: 3a412b653a28c094ba31853b9abd4479, type: 3}
   - {fileID: 1157205705539531191, guid: ad0e5768a3bfd5f4880688d6a6ae76cf, type: 3}
   _piecePrefab: {fileID: 8337180028653851616, guid: 6c972b3b48db83749b5eb3d919e83cf4, type: 3}
